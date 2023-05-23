@@ -1,4 +1,4 @@
-##MonodeFW
+#MonodeFW
 
 Code for the paper : 
 One gradient frank-wolfe for decentralized online convex and submodular optimization. TA Nguyen, NK Thang, D Trystram - Asian Conference on Machine Learning, 2023
